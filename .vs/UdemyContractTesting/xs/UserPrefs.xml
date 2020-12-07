@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{056DBE3E-E5EC-457E-AEA8-3E8F169815B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactTesting/Tests/ProviderPactTest.cs">
+    <Files>
+      <File FileName="ContactTesting/Consumer/ConsumerPact.cs" Line="16" Column="23" />
+      <File FileName="ContactTesting/Tests/ConsumerPactTest.cs" />
+      <File FileName="ContactTesting/Tests/ProviderPactTest.cs" Line="1" Column="1" />
+      <File FileName="ContactTesting/Outputer/XUnitOutput.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UdemyContractTesting" expanded="True">
+            <Node name="EmployeeAPI" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UdemyContractTesting" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmployeeAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
